@@ -1,0 +1,12 @@
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.exe
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.deps.json
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.runtimeconfig.json
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.runtimeconfig.dev.json
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.dll
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\bin\Debug\netcoreapp3.1\ControlFlowExercises5.pdb
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.csproj.CoreCompileInputs.cache
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.AssemblyInfoInputs.cache
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.AssemblyInfo.cs
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.dll
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.pdb
+C:\Repos\EjerciciosAcademia\ControlFlowExercises5\obj\Debug\netcoreapp3.1\ControlFlowExercises5.genruntimeconfig.cache
