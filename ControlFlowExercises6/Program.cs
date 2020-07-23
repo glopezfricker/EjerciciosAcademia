@@ -8,12 +8,25 @@ namespace ControlFlowExercises6
         {
             //Write a program and continuously ask the user to enter a number or "ok" to exit. 
             //Calculate the sum of all the previously entered numbers and display it on the console.
-            Console.ReadLine("Ingrese un numero (ok para terminar):");
+            Console.WriteLine("Ingrese un numero (ok para terminar):");
             string input = Console.ReadLine();
-            while(input != "ok")
+            int sum = 0;
+            while(input.ToLower() != "ok")
             {
-
+                try
+                {
+                    sum += Convert.ToInt32(input);
+                    Console.WriteLine("Ingrese un numero (ok para terminar):");
+                    input = Console.ReadLine();
+                }
+                catch(SystemException e)
+                {
+                    Console.WriteLine("Valor incorrecto.Ingrese un numero (ok para terminar):");
+                    input =Console.ReadLine();
+                    continue;
+                }
             }
+            Console.WriteLine("Total:{0}", sum);
         }
     }
 }
