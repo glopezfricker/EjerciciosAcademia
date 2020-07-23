@@ -1,0 +1,13 @@
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.exe
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.deps.json
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.runtimeconfig.json
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.runtimeconfig.dev.json
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.dll
+C:\Repos\EjerciciosAcademia\FileExercises2\bin\Debug\netcoreapp3.1\FileExercises2.pdb
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.csprojAssemblyReference.cache
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.csproj.CoreCompileInputs.cache
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.AssemblyInfoInputs.cache
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.AssemblyInfo.cs
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.dll
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.pdb
+C:\Repos\EjerciciosAcademia\FileExercises2\obj\Debug\netcoreapp3.1\FileExercises2.genruntimeconfig.cache
