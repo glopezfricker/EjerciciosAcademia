@@ -1,0 +1,13 @@
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.csprojAssemblyReference.cache
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.csproj.CoreCompileInputs.cache
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.AssemblyInfoInputs.cache
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.AssemblyInfo.cs
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.exe
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.deps.json
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.runtimeconfig.json
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.runtimeconfig.dev.json
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.dll
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\bin\Debug\netcoreapp3.1\ArrayListExercises3.pdb
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.dll
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.pdb
+C:\Repos\EjerciciosAcademia\ArrayListExercises3\obj\Debug\netcoreapp3.1\ArrayListExercises3.genruntimeconfig.cache
